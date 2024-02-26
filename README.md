@@ -1,6 +1,15 @@
 # To-Do-List-Application-Using-Python
 
-# Step for use this app
-1) Install Python 
+## How to Run ? 
 
-2) run command 'python app.py'
+## Clone Repo :
+  - https://github.com/suyash353/To-Do-List-App
+## Steps:
+## step 1:
+  - conda create -p venv python==3.8 -y
+## step 2 :
+  - conda activate ./venv
+## step 3 :
+  - pip install -r requirements.txt
+## step 4 :
+  - python app.py 
